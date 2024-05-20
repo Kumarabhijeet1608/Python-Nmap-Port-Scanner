@@ -23,7 +23,7 @@ It is provived in theformat of `portscan.py`.
 
 
 - `$ nmap your-host.com --top-ports 10`
-- `pwd # for current working directory.`
+- `pwd                                     # for current working directory.`
 - `sudo python3 [filename.py]              # to execute the python file.` 
 - `Output will be in the form of json`
 
