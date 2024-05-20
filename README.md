@@ -35,12 +35,12 @@ It is provived in theformat of `portscan.py`.
 3. **Top Ports Scan** (User-defined limit)
 4. **DNS Brute Force to List Subdomains**
 5. **Various Scanning Techniques:**
-    - FIN Scan   [Identifies open ports without establishing a full TCP connection.]
-    - Idle Scan  [A stealth scan method using a third-party idle host.]
-    - Ping Scan  [Checks the availability of hosts on a network.]
-    - SYN Scan   [Performs a half-open scan without completing the TCP handshake.]
-    - TCP Scan   [Connects to target ports to check their status.]
-    - UDP Scan   [Scans for open UDP ports.]
+    - `FIN Scan   [Identifies open ports without establishing a full TCP connection.]`
+    - `Idle Scan  [A stealth scan method using a third-party idle host.]`
+    - `Ping Scan  [Checks the availability of hosts on a network.]`
+    - `SYN Scan   [Performs a half-open scan without completing the TCP handshake.]`
+    - `TCP Scan   [Connects to target ports to check their status.]`
+    - `UDP Scan   [Scans for open UDP ports.]`
 
 
 ## Installation
